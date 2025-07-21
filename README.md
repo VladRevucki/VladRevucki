@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-<details><summary><b>My Projects</b></summary>
+<details><summary><b>My Projects https://cdn-icons-mp4.flaticon.com/512/7740/7740748.mp4</b></summary>
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
     <li><a href="https://github.com/VladRevucki/Aivazovski_page">Aivazovski page</a></li>
