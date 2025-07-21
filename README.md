@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
   </a>
@@ -30,7 +30,8 @@
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
 </details>
-
-<img alt="Описание изображения" src="https://i.gifer.com/Fdfb.gif" />
+<div align="left">
+  <img src="https://i.gifer.com/Fdfb.gif" width="500" height="300"/>
+</div>
 
 ![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
