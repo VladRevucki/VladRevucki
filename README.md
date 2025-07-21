@@ -5,7 +5,7 @@
 <img alt="Описание изображения" src="https://i.gifer.com/Fdfb.gif" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 <p align="left">
