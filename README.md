@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
   </a>
