@@ -30,8 +30,9 @@
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
 </details>
-<div align="left">
-  <img src="https://i.gifer.com/Fdfb.gif" width="500" height="300"/>
+
+<div align="center">
+  <img src="https://i.gifer.com/Fdfb.gif" width="400" height="300"/>
 </div>
 
 ![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
