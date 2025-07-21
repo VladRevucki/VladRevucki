@@ -10,8 +10,6 @@
   </a>
 </p>
 
-![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-
 <details><summary><b>My Projects</b></summary>
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
@@ -32,5 +30,7 @@
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
 </details>
+
 <img alt="Описание изображения" src="https://i.gifer.com/Fdfb.gif" />
 
+![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
