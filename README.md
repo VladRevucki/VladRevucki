@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
-  </a>
-</p>
-
 <details><summary><b>My Projects</b></summary>
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
@@ -30,6 +24,12 @@
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
 </details>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://i.gifer.com/Fdfb.gif" width="400" height="300"/>
