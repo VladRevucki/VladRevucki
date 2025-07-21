@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-<details><summary><b>My Projects </b></summary><img src="https://img.icons8.com/?size=100&id=HqGFKTvtyv59&format=png&color=000000"/>
+<details><summary><b>My Projects </b></summary>
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
     <li><a href="https://github.com/VladRevucki/Aivazovski_page">Aivazovski page</a></li>
