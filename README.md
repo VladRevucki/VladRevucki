@@ -1,7 +1,9 @@
 ## Hi there 👋
-
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+
+    <img src="https://i.gifer.com/VJi.gif"/>
+
 </div>
 
 <details><summary><b>My Projects </b></summary>
