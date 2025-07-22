@@ -4,7 +4,7 @@
     <img src="https://i.gifer.com/CCNN.gif" width="1000" height="320" />
 </div>
 
-<details><summary><b>My Projects </b> <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="100"/></summary>
+<details><summary><b>My Projects </b> <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="50"/></summary>
   
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
