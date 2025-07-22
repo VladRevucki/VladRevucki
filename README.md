@@ -1,7 +1,7 @@
 ## Hi there 👋
   
 <div align="center">
-    <img src="https://i.gifer.com/CCNN.gif" width="1000" height="450"/>
+    <img src="https://i.gifer.com/CCNN.gif" width="1000" height="350" border-radius="10" />
 </div>
 
 <details><summary><b>My Projects </b></summary>
