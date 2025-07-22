@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 <details><summary><b>My Projects </b></summary>
@@ -30,9 +30,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://i.gifer.com/Fdfb.gif" width="400" height="300"/>
-</div>
 
 ![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
