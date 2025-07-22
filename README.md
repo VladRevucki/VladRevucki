@@ -1,8 +1,7 @@
 ## Hi there 👋
-  <img src="https://i.gifer.com/CCNN.gif" width="500" height="300"/>
   
 <div align="center">
-    <img src="https://i.gifer.com/CCNN.gif" width="1000" height="400"/>
+    <img src="https://i.gifer.com/CCNN.gif" width="1000" height="450"/>
 </div>
 
 <details><summary><b>My Projects </b></summary>
