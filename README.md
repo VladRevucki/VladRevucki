@@ -20,11 +20,13 @@
   </ul>
 </details>
 
-<details><summary><b>React</b></summary>  
+<details><summary><b>React</b><img src="https://img.icons8.com/?size=100&id=48142&format=png&color=000000" width="17"/></summary>  
   <ul>
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
 </details>
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
