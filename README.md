@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/CCNN.gif" width="500" height="300"/>
   
 <div align="center">
-    <img src="https://i.gifer.com/VJi.gif"/>
+    <img src="https://i.gifer.com/CCNN.gif"/>
 </div>
 
 <details><summary><b>My Projects </b></summary>
