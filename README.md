@@ -30,5 +30,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
   </a>
 </p>
-
+<p align="center">
 ![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+</p>
