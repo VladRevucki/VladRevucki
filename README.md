@@ -4,7 +4,7 @@
     <img src="https://i.gifer.com/CCNN.gif" width="1000" height="320" />
 </div>
 
-<details><summary><b>My Projects </b> <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="17"/></summary>
+<details><summary><b>My Projects</b>  <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="17"/></summary>
   
   <ul>
     <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
@@ -20,7 +20,7 @@
   </ul>
 </details>
 
-<details><summary><b>React</b> <img src="https://img.icons8.com/?size=100&id=48142&format=png&color=000000" width="17"/></summary>  
+<details><summary><b>React</b>  <img src="https://img.icons8.com/?size=100&id=48142&format=png&color=000000" width="19"/></summary>  
   <ul>
     <li><a href="https://react-cards-app-yw1h.onrender.com">React App</a></li>
   </ul>  
