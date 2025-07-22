@@ -1,6 +1,6 @@
 ## Hi there 👋
   
-<div align="center" border-radius="10" overflow="hidden">
+<div align="center">
     <img src="https://i.gifer.com/CCNN.gif" width="1000" height="350" />
 </div>
 
