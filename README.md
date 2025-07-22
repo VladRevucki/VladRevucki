@@ -1,5 +1,6 @@
 ## Hi there 👋
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://i.gifer.com/CCNN.gif" width="500" height="300"/>
+  
 <div align="center">
     <img src="https://i.gifer.com/VJi.gif"/>
 </div>
