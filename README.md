@@ -32,6 +32,6 @@
 </p>
 
 ![image](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-<p align="center">
+<p align="right">
     <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
 </p>
