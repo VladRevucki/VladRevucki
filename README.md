@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
-<hr>
 
 <details><summary><b>My Projects</b>   <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="17"/></summary>
   
@@ -27,8 +26,7 @@
   </ul>  
 </details>
 
-
-
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,ts,react,vite,nodejs,nextjs,npm,bootstrap,git,figma,vscode" />
