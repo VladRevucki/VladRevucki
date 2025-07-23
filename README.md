@@ -3,6 +3,10 @@
 <div align="center">
     <img src="https://i.gifer.com/CCNN.gif" width="1000" height="310" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <hr>
 
 <details><summary><b>My Projects</b>   <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="17"/></summary>
