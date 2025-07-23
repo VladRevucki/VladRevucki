@@ -7,16 +7,16 @@
 <details><summary><b>My Projects</b>   <img src="https://img.icons8.com/?size=100&id=GCWQkWqtBCgB&format=png&color=000000" width="17"/></summary>
   
   <ul>
-    <li><a href="https://github.com/VladRevucki/Alivio_page">Alivio page</a></li>
-    <li><a href="https://github.com/VladRevucki/Aivazovski_page">Aivazovski page</a></li>
+    <li><a href="https://vladrevucki.github.io/Alivio_page/">Alivio page</a></li>
+    <li><a href="https://vladrevucki.github.io/Aivazovski_page/">Aivazovski page</a></li>
     <li><a href="https://vladrevucki.github.io/Live-streaming">Live streaming page</a></li>
-    <li><a href="https://github.com/VladRevucki/Lionic">Lionic</a></li>
-    <li><a href="https://github.com/VladRevucki/Hotels">Hotels page</a></li>
-    <li><a href="https://github.com/VladRevucki/Evklid">Evklid page</a></li>
-    <li><a href="https://github.com/VladRevucki/radio-W-Wave">Radio-W-Wave</a></li>
-    <li><a href="https://github.com/VladRevucki/skillbox">Skillbox page</a></li>
-    <li><a href="https://github.com/VladRevucki/List-films">List-films</a></li>
-    <li><a href="https://github.com/VladRevucki/github-pages">Application with the ability to manipulate data in a table</a></li>
+    <li><a href="https://vladrevucki.github.io/Lionic/">Lionic</a></li>
+    <li><a href="https://vladrevucki.github.io/Hotels/">Hotels page</a></li>
+    <li><a href="https://vladrevucki.github.io/Evklid/">Evklid page</a></li>
+    <li><a href="https://vladrevucki.github.io/radio-W-Wave/">Radio-W-Wave</a></li>
+    <li><a href="https://vladrevucki.github.io/skillbox/">Skillbox page</a></li>
+    <li><a href="https://vladrevucki.github.io/List-films/">List-films</a></li>
+    <li><a href="https://vladrevucki.github.io/github-pages/">Application with the ability to manipulate data in a table</a></li>
   </ul>
 </details>
 
